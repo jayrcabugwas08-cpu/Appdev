@@ -3,19 +3,19 @@ My first repository
 
 ---
 
-# My Favorite Series: [Alice in Borderland]
+# My Favorite Series: Alice in Borderland
 
 ## About the Series
-**[Alice in Borderland]** is a [Action] series that first aired in *[2018]*. 
-It follows ***[arisu]*** as they [death game].
+**Alice in Borderland** is a Action series that first aired in *2018*. 
+It follows ***arisu*** as they death game.
 
-> "[you can do it]"
-> — [arisu]
+> "you can do it"
+> — arisu
 
 ## Main Characters
-1. **[kurina]** – [parkour]
-2. **[ann]** – [genius]
-3. **[kota]** – [brave]
+1. **kurina** – parkour
+2. **ann** – genius
+3. **kota** – brave
 
 ## Why I Like It
 - Great storyline
@@ -28,9 +28,9 @@ It follows ***[arisu]*** as they [death game].
 
 | Detail | Info |
 |--------|------|
-| Genre | [Action] |
-| Seasons | [3] |
-| Year Released | [2018] |
+| Genre | Action |
+| Seasons | 3 |
+| Year Released | 2018 |
 | Rating | ⭐⭐⭐⭐⭐ |
 
 ## My To-Do List
@@ -43,7 +43,7 @@ Inline code example: `print("Hello, fan!")`
 
 ```python
 def favorite_series():
-    return "[Series Title]"
+    return "Alice in Borderland"."
 ```
 
 ## Useful Links
